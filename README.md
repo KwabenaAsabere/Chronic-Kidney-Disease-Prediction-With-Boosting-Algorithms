@@ -1,4 +1,4 @@
- **Chronic Kidney Disease Prediction Using Boosting Algorithms**
+ **Chronic Kidney Disease Prediction Using Boosting Algorithms**  
 Author: Asabere Kwabena Asante
 
 **Background:**
